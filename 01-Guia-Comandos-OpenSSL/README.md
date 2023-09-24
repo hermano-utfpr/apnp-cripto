@@ -509,7 +509,7 @@ Verificar suites disponíveis:
 $ openssl ciphers -v
 $ openssl ciphers FIPS
 $ openssl ciphers HIGH
-```a
+```
 
 Comunicação SSL/TLS Cliente/Servidor:
 

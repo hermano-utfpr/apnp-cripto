@@ -1,5 +1,7 @@
 # Lista de Exercícios 01
 
+Acompanhe as videoaulas APNP 01 na [Playlist](https://www.youtube.com/playlist?list=PL4ySOdUYDU9AnsLbtvt7Mq3yBtnMT0Fog).
+
 **Exercício 01**
 
 Decodifique:

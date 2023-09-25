@@ -1,0 +1,5 @@
+33998a8bba22e07326fe77f6a60f17ec  inscricao_01.doc
+6d0926dc5fcefb0565054f80098da9a1  inscricao_02.doc
+6cffc3e74e356c3e4427dab9232e9045  inscricao_03.doc
+1770da10368a24107cf32b2b84d423c2  inscricao_04.doc
+818f766b2079e989eadefcecc891e35a  inscricao_05.doc

@@ -288,7 +288,7 @@ i) Camberra
 
 j) Brasília
 
-Exercício 07
+**Exercício 07**
 
 A mensagem codificada em base64 abaixo contém uma figura:
 

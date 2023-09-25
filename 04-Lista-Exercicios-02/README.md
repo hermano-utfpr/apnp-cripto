@@ -207,6 +207,9 @@ d) 02b2ac79670757dcff4091f2ed7f1fad
 e) 9e9973a48d28eed5cc0fb56e98ea2fe3 
 
 <details><summary></summary>
+
+Respostas:
+
 01 b)
 
 02 e)

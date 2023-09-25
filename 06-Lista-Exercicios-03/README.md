@@ -139,7 +139,7 @@ d) ![](av_captain.png)
 
 e) ![](av_nick.png)
 
-<details>
+<details><summary></summary>
 
 Respostas:
 

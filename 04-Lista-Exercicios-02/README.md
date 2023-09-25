@@ -1,5 +1,7 @@
 # Lista de Exercícios 02
 
+Acompanhe as videoaulas APNP 02 na [Playlist](https://www.youtube.com/playlist?list=PL4ySOdUYDU9AnsLbtvt7Mq3yBtnMT0Fog).
+
 **Exercício 01**
 
 O hash abaixo corresponde ao nome de qual cidade?

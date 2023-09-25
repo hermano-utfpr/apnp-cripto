@@ -4,7 +4,7 @@
 
 Os personagens de um jogo de tabuleiro criptografaram o seu próprio jogo:
 
-[qualjogo.png](qualjogo.png)
+![](qualjogo.png)
 
 [jogo.tar.gz](jogo.tar.gz)
 

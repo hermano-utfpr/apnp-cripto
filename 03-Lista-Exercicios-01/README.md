@@ -347,9 +347,9 @@ i) Bandeira da Venezuela
 
 j) Bandeira da Alemanha 
 
-* * *
+<details><summary></summary> 
 
-<details><summary>Respostas:</summary> 
+Respostas:
 
 01 - h)
 

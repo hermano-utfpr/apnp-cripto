@@ -81,12 +81,12 @@ Considere:
 - A senha "utfpr" foi utilizada para fazer a criptografia.
 
 a)
-I) [modelo_z.des]()
+I) [modelo_z.des](modelo_z.des)
 
 II) MS Word
 
 b)
-I) [modelo_y.des]()
+I) [modelo_y.des](modelo_y.des)
 
 II) MS Word
 

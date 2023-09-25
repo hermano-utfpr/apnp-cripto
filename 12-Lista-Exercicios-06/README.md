@@ -125,7 +125,7 @@ I) [modelo_x.des](modelo_x.des)
 
 II) MS PowerPoint
 
-Exercício 6
+**Exercício 6**
 
 Criptografe o arquivo abaixo:
 

@@ -1,6 +1,6 @@
 # Lista de Exercícios 15
 
-Acompanhe as videoaulas APNP 14 na [Playlist](https://www.youtube.com/playlist?list=PL4ySOdUYDU9AnsLbtvt7Mq3yBtnMT0Fog).
+Acompanhe as videoaulas APNP 15 na [Playlist](https://www.youtube.com/playlist?list=PL4ySOdUYDU9AnsLbtvt7Mq3yBtnMT0Fog).
 
 **Exercício 1**
 

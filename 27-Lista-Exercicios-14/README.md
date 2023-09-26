@@ -4,7 +4,7 @@ Acompanhe as videoaulas APNP 14 na [Playlist](https://www.youtube.com/playlist?l
 
 Sugestão: resolva utilizando a ferramenta OpenSSL.
 
-*Obs: alguns certificados expiraram, mas ainda são úteis nessa atividade.*
+*Obs: alguns certificados expiraram, mas ainda são úteis nesta atividade.*
 
 **Exercício 1**
 

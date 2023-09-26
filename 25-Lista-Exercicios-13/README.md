@@ -2,6 +2,8 @@
 
 Acompanhe as videoaulas APNP 13 na [Playlist](https://www.youtube.com/playlist?list=PL4ySOdUYDU9AnsLbtvt7Mq3yBtnMT0Fog).
 
+Sugestão: resolva este exercícios com a ferramenta OpenSSL.
+
 **Exercício 1**
 
 Verifique o arquivo abaixo e responda:
@@ -56,7 +58,7 @@ CA:C0:9A:49:4E:42:06:6A:0E:53:6D:DF:14:46
 
 Estes são os certificados:
 
-[cert_A.pem])(cert_A.pem)
+[cert_A.pem](cert_A.pem)
 
 [cert_B.pem](cert_B.pem)
 

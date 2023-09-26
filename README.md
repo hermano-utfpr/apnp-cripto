@@ -20,6 +20,18 @@ Além disso, neste respositório disponibilizei **Exercícios** e **Desafios** a
 
 * * *
 
+Conteúdo:
+- Introdução a Segurança e a Criptografia
+- Codificação Base64
+- Sumário de Mensagens (MD5/SHA)
+- Autenticação de Mensagens (HMAC)
+- Cifra Simétrica (DES/3DES/AES)
+- Troca de Chaves (DH/RSA)
+- Assinatura Digital (RSA/DSA)
+- Certificado Digital (x509)
+- Comunicação Segura (TLS)
+
+* * *
 Se eu puder e souber como ajudar, é só contatar! Bons estudos!
 
 Prof. Hermano

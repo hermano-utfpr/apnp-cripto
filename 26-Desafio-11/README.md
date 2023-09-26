@@ -18,7 +18,7 @@ b) Quem autografou o objeto?
 
 Respostas:
 
-1) Mysterios Banksy
+1) Mysteriuos Banksy
 
 2) Donald Trump
 </details>

@@ -2,6 +2,8 @@
 
 Acompanhe as videoaulas APNP 11 na [Playlist](https://www.youtube.com/playlist?list=PL4ySOdUYDU9AnsLbtvt7Mq3yBtnMT0Fog).
 
+*Obs: esta lista de exercícios contém informações que podem ser meramente ilustrativas.*
+
 **Exercício 1**
 
 Maurício de Souza assinou digitalmente uma figura [assinatura.sha1.sign](assinatura.sha1.sign). Qual figura ele assinou conhecendo sua chave pública [mauricio.pub.pem](mauricio.pub.pem)?

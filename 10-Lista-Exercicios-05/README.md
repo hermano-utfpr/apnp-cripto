@@ -2,6 +2,8 @@
 
 Acompanhe as videoaulas APNP 05 na [Playlist](https://www.youtube.com/playlist?list=PL4ySOdUYDU9AnsLbtvt7Mq3yBtnMT0Fog).
 
+*Obs: esta lista de exercícios contém informações que podem ser meramente ilustrativas.*
+
 **Exercício 1**
 
 O arquivo contém o nome de uma cidade criptografada em DES. Sabendo que a senha é o resultado da equação abaixo, qual é o nome da cidade?

@@ -6,6 +6,8 @@ Sugestão: resolva utilizando a ferramenta OpenSSL.
 
 *Obs: alguns certificados expiraram, mas ainda são úteis nesta atividade.*
 
+*Obs 2: esta lista de exercícios contém informações que podem ser meramente ilustrativas.*
+
 **Exercício 1**
 
 O certificado abaixo possui uma chave pública. Encontre a chave e verifique se é uma chave DSA ou RSA!

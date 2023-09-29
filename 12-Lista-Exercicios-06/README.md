@@ -2,6 +2,8 @@
 
 Acompanhe as videoaulas APNP 06 na [Playlist](https://www.youtube.com/playlist?list=PL4ySOdUYDU9AnsLbtvt7Mq3yBtnMT0Fog).
 
+*Obs: esta lista de exercícios contém informações que podem ser meramente ilustrativas.*
+
 **Exercício 1**
 
 Criptografe a figura abaixo utilizando 3DES e a senha "mouse". Desative o "salted".

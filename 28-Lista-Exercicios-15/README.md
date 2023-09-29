@@ -2,6 +2,8 @@
 
 Acompanhe as videoaulas APNP 15 na [Playlist](https://www.youtube.com/playlist?list=PL4ySOdUYDU9AnsLbtvt7Mq3yBtnMT0Fog).
 
+*Obs: esta lista de exercícios contém informações que podem ser meramente ilustrativas.*
+
 **Exercício 1**
 
 Quais são os protocolos que compõem o SSL/TLS?

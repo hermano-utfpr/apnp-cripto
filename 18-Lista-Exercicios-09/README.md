@@ -2,6 +2,8 @@
 
 Acompanhe as videoaulas APNP 09 na [Playlist](https://www.youtube.com/playlist?list=PL4ySOdUYDU9AnsLbtvt7Mq3yBtnMT0Fog).
 
+*Obs: esta lista de exercícios contém informações que podem ser meramente ilustrativas.*
+
 **Exercício 1**
 
 Qual dos arquivos de parâmetros de Diffie-Hellman abaixo contém o seguinte número primo?

@@ -2,7 +2,9 @@
 
 Acompanhe as videoaulas APNP 13 na [Playlist](https://www.youtube.com/playlist?list=PL4ySOdUYDU9AnsLbtvt7Mq3yBtnMT0Fog).
 
-Sugestão: resolva este exercícios com a ferramenta OpenSSL.
+*Obs: esta lista de exercícios contém informações que podem ser meramente ilustrativas.*
+
+Sugestão: resolva estes exercícios com a ferramenta OpenSSL.
 
 **Exercício 1**
 

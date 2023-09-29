@@ -1,5 +1,7 @@
 # Desafio 11 - Quem autografou?
 
+*Obs: este desafio contém informações que são meramente ilustrativas.*
+
 **Cenário:**
 
 Um objeto foi autografado por uma pessoa famosa. Encontre o dono do objeto e quem autografou.

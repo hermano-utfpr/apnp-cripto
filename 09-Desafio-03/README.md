@@ -1,6 +1,8 @@
 # Desafio 03 - De quem é a mensagem? 
 
-Cenário:
+*Obs: este desafio contém informações que são meramente ilustrativas.*
+
+**Cenário:**
 
 Um(a) personagem qualquer:
 

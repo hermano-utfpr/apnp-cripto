@@ -1,6 +1,8 @@
 # Desafio 06 - Qual é o seriado?
 
-Cenário:
+*Obs: este desafio contém informações que são meramente ilustrativas.*
+
+**Cenário:**
 
 Alice está assistindo um seriado de TV!
 

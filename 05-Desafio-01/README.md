@@ -1,5 +1,7 @@
 # Desafio 01 - A Senha de Milhouse
 
+*Obs: este desafio contém informações que são meramente ilustrativas.*
+
 Cenário:
 
 ![](milhouse.gif)

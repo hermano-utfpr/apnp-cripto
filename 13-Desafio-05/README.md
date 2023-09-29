@@ -1,5 +1,7 @@
 # Desafio 05 - Qual é o nome do filme?
 
+*Obs: este desafio contém informações que são meramente ilustrativas.*
+
 **Cenário:**
 
 Faltam quatro peças para remontar o quebra-cabeça:

@@ -1,5 +1,7 @@
 # Desafio 02 - Recuperação de Acesso
 
+*Obs: este desafio contém informações que são meramente ilustrativas.*
+
 **Cenário:**
 
 ![](password.gif)

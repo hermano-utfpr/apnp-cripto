@@ -1,5 +1,7 @@
 # Desafio 07 - Quem criptografou?
 
+*Obs: este desafio contém informações que são meramente ilustrativas.*
+
 **Cenário:**
 
 Entre as sete pessoas abaixo apenas três delas criptografaram os arquivos abaixo compactados:

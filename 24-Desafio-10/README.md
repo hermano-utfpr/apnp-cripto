@@ -1,5 +1,7 @@
 # Desafio 10 - Quem assinou?
 
+*Obs: este desafio contém informações que são meramente ilustrativas.*
+
 **Cenário:**
 
 Cada um dos personagens da turma do Chaves criptografou sua própria frase, porém somente uma assinatura digital foi feita corretamente!

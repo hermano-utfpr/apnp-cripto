@@ -1,5 +1,7 @@
 # Desafio 04 - Autenticação de Documentos
-  	
+ 
+*Obs: este desafio contém informações que são meramente ilustrativas.*
+ 	
 **Cenário:**
 
 ![](inspecionar.jpg)

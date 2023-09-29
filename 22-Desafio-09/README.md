@@ -1,5 +1,7 @@
 # Desafio 09 - Quem gravou o quê?
 
+*Obs: este desafio contém informações que são meramente ilustrativas.*
+
 **Cenário:**
 
 Em Bed Rock alguém gravou um momento e criptografou para ninguém descobrir!

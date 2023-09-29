@@ -1,5 +1,7 @@
 # Desafio 08 - Qual é o nome do jogo?
 
+*Obs: este desafio contém informações que são meramente ilustrativas.*
+
 **Cenário:**
 
 Os personagens de um jogo de tabuleiro criptografaram o seu próprio jogo:
